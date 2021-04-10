@@ -1,0 +1,12 @@
+var arr = [1, 2, 3, 4];
+var strArr = ['Ram', 'Ria', 'Anil', 'Ajay'];
+var msg = ['Alain', 1, true, 'yes'];
+var arr1 = [10, 20, 30, 40];
+var str1 = ['Hello', 'Hi'];
+arr.push(5);
+arr.push(7);
+var a = new Array();
+a.push(10);
+console.log(a);
+arr.forEach(function (v) { return console.log(v); });
+str1.forEach(function (v) { return console.log(v); });
